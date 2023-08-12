@@ -1,0 +1,52 @@
+.outer-div{
+    height: 650px;
+    width: 100%;
+    background-color: darkslategray;
+}
+.image-section{
+    background-color: white;
+    height: 100%;
+    width: 55%;
+    padding-top: 13%;
+    padding-left: 13%;
+    float: left;
+    box-sizing: border-box;
+}
+.image{
+   width: 43%;
+   width: 43%;
+}
+.login-section{
+    background-color: white;
+    height: 100%;
+    width: 45%;
+    float: left;
+ 
+}body{
+    margin: 0;
+}
+.content{
+    height:100%;
+    width: 100%;
+    background-color: fuchsia;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    padding-top: 60px;
+    box-sizing: border-box;
+
+}
+.button{
+    height: 40px;
+    width: 300px;
+    border-radius: 60px;
+    border-color: #c8ccc9;
+    background-color: white;
+    border: 1px solid  #c8ccc9;
+}
+.footer-item{
+    text-decoration: none;
+    padding-right: 5px;
+}
